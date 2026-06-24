@@ -1,0 +1,6 @@
+# TranscriptorIA usa el filtro whisper de FFmpeg (empaquetado), no librerias de IA.
+# Dependencias de ejecucion: solo Pillow (para el icono) y Tkinter (stdlib).
+Pillow>=11.0
+
+# Solo para construir el .exe
+pyinstaller>=6.21
