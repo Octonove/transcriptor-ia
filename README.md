@@ -2,6 +2,14 @@
 
 Aplicación de escritorio para **Windows** que transcribe **audio y vídeo a texto** y genera **subtítulos (.srt)** usando IA (Whisper de OpenAI), **100% en tu PC**.
 
+## ⬇️ Descargar (Windows 10/11)
+
+### ➡️ [**Descargar TranscriptorIA (instalador .exe)**](https://github.com/Octonove/transcriptor-ia/releases/latest/download/TranscriptorIA-Setup.exe)
+
+Descarga **directa** del instalador, sin registro (el modelo de IA se descarga al primer uso). También puedes ver la [última versión y notas](https://github.com/Octonove/transcriptor-ia/releases/latest).
+
+> Si Windows muestra *"Windows protegió tu PC"* (es normal en programas nuevos sin firma): pulsa **Más información → Ejecutar de todas formas**. Se instala sin permisos de administrador.
+
 ## Por qué es diferente
 - **Privado**: tus archivos **no se suben a internet**. Ideal para entrevistas, reuniones y grabaciones confidenciales (RGPD).
 - **Sin límite de minutos** ni marca de agua.
